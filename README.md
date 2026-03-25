@@ -92,7 +92,6 @@ CTTS can be evaluated with any model compatible with the [SOTA-FR-train-and-test
 | Method | Conference | Test Flag |
 |---|---|---|
 | ArcFace | CVPR19 | `--add_flip` |
-| CurricularFace | CVPR20 | `--add_flip` |
 | MagFace | CVPR21 | `--add_flip` |
 | AdaFace | CVPR22 | `--add_norm` |
 | UniFace | ICCV23 | `--add_flip` |
