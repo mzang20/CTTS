@@ -103,4 +103,4 @@ This work builds on the [SOTA-FR-train-and-test](https://github.com/HaiyuWu/SOTA
 
 ## License
 
-MIT
+[MIT License](github.com/mzang20/CTTS/blob/main/license.md) for the code and model weights
