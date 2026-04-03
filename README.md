@@ -60,17 +60,16 @@ Organize your dataset into 10 folds with twin pair subfolders, each containing t
 ```
 Celeb_twins_folds/
 ├── fold_00/
-│   ├── Olsen_twins/
-│   │   ├── Ashley_Olsen/
-│   │   │   ├── 001.jpg
-│   │   │   ├── 002.jpg
+│   ├── Daniel_twins/
+│   │   ├── Daniel_Brittany/
+│   │   │   ├── Daniel_Brittany_01.jpg
 │   │   │   └── ... (12 images)
-│   │   └── Mary-Kate_Olsen/
+│   │   └── Daniel_Cynthia/
 │   │       └── ... (12 images)
 │   ├── Sprouse_twins/
-│   │   ├── Cole_Sprouse/
-│   │   └── Dylan_Sprouse/
-│   └── ... (5 twin pairs per fold)
+│   │   ├── Sprouse_Cole/
+│   │   └── Sprouse_Dylan/
+│   └── ... (5 pairs)
 ├── fold_01/
 └── ... (10 folds)
 ```
