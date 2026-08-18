@@ -8,7 +8,7 @@ Existing twin verification benchmarks such as ND-Twins rely on controlled labora
 
 ## Dataset Documentation
 
-The complete list of twin pairs included in CTTS is provided in the **[Twins List](Twins List.pdf)** document.
+The complete list of twin pairs included in CTTS is provided in the **[Twins_List](Twins_List.pdf)** document.
 
 For each of the 80 monozygotic twin sets, the document provides:
 
