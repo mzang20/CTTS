@@ -6,6 +6,17 @@ This repository provides tools to construct and evaluate the **Celeb Twins Test 
 
 Existing twin verification benchmarks such as ND-Twins rely on controlled laboratory imagery. CTTS addresses this gap by using celebrity twin photos sourced from public appearances where pose, lighting, expression, and image quality vary naturally. This makes CTTS more representative of real-world deployment conditions for face recognition systems.
 
+## Dataset Documentation
+
+The complete list of twin pairs included in CTTS is provided in the **[Twins List](Twins List.pdf)** document.
+
+For each of the 80 monozygotic twin sets, the document provides:
+
+- Twin names and birth year
+- A source verifying that the pair is monozygotic or identical
+- Notes on visually distinguishing skin marks (**SM**) when readily apparent
+- Notes on known left/right-handed or left/right-footed differences (**LR**), which may indicate mirror twins
+
 ## Citation
 
 If you find this dataset or code helpful, please cite:
